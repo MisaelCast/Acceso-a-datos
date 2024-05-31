@@ -35,4 +35,6 @@ Este proyecto demuestra una aplicación práctica de la gestión de bases de dat
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/MisaelCast/Acceso-a-datos.git
+
+   
